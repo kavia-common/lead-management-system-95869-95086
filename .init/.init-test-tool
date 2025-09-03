@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/lead-management-system-95869-95086/lead_management_frontend"
+}
